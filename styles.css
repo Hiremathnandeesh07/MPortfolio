@@ -246,7 +246,7 @@ font-family: "Roboto Mono", monospace; */
   font-weight: 800;
 }
 
-.proj3 {
+.proj3,.proj5 {
   color: rgb(136, 32, 32);
   font-size: larger;
 }
